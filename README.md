@@ -2,6 +2,9 @@ Healthworks is an assignment based project that we've develop for our Web Develo
 We were assigned to create multiple functions such as: Login, Register, Admin, php and SQL related functions.
 It's a website that plans to spread awareness about the Sustainable Development Goals(SDG), and SDG 3 - Good Health and Well Being Specifically.
 
+It utilises HTML5, PHP, CSS, and JAVASCRIPT
+To run it, it requires the XAMPP control panel with MySQL and Apache running.
+
 <b>Login page function</b>
 <img src="ss/Login menu.png">
 <br>
