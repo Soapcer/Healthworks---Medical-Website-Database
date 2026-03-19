@@ -1,0 +1,78 @@
+body{
+    font-family: montserrat;
+    background-color: #6f81ff;
+
+}
+
+.header {
+    background-color: #6f81ff;
+    align-items: center;
+    margin-right: -8px;
+    margin-left:-10px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    }
+
+#Logout{
+    font-size: 28px;
+    font-family: 'montserrat';
+    font-weight: 700;
+    color: #ffffff;
+    border: none;
+    background-color: #ff5757;
+    border-radius: 50px;
+    cursor: pointer;
+    height: 40px;
+    Width: 200px;
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-top: -65px;
+    transition : 0.2s;
+
+}
+#Logout:hover{
+    color: #4ba146
+}	
+
+#admin{
+    font-size: 23px;
+    font-family: 'montserrat';
+    font-weight: 700;
+    color: #f7f7f7;
+    margin-left: 150px;
+    margin-top: 32px;
+}
+
+#welcome{
+    font-size: 28px;
+    font-family: 'montserrat';
+    font-weight: 700;
+    color: #f7f7f7;
+    margin-left: 300px;
+    margin-top: -55px;
+}
+
+.inquiry{
+    margin-top: 150px;
+}
+
+#tablehead{
+    background-color: white;
+    border-style: solid;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    border-color: #f7f7f7;
+}
+
+#delete{
+    background-color: #f7f7f7; 
+    color: red; 
+    border: none; 
+    font-family: montserrat;
+    font-weight: 700;
+    padding: 5px 10px; 
+    cursor: pointer;
+}

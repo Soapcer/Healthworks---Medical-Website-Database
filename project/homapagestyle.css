@@ -1,0 +1,199 @@
+
+
+    h1{
+        font-family: 'montserrat';
+        font-weight: 900;
+        font-size: 50px;
+    }
+    p{
+        font-family: 'montserrat';
+        font-weight: 500;
+        font-size: 25px;
+    }
+    .header {
+        background-color: #f7f7f7;
+        align-items: center;
+        margin-right: -8px;
+        margin-left:-10px;
+	    width: 100%;
+	    position: fixed;
+	    top: 0;
+    }
+    #Home{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        background: none;
+        color: #6f81ff;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 180px;
+	    margin-left: 20px;
+        transition : 0.2s;
+    }
+    #Home:hover{
+	    color: #4ba146
+    }	
+    #ChallengesFaced{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        background: none;
+        color: #6f81ff;
+        cursor: pointer;
+        height: 100px;
+        Width: 350px;
+	    padding-left: 0px;
+	    border: none;
+	    margin-left: 00px;
+        transition : 0.2s;
+    }
+    #ChallengesFaced:hover{
+	    color: #4ba146
+    }	
+    #Logout{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        color: #ffffff;
+        border: none;
+        background-color: #ff5757;
+        border-radius: 50px;
+        cursor: pointer;
+        height: 40px;
+        Width: 200px;
+        float: right;
+        margin-right: 30px;
+        margin-top: 30px;
+        transition : 0.2s;
+
+    }
+    #Logout:hover{
+	    color: #4ba146
+
+
+    }	
+    #Donate{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        background: none;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 100px;
+        margin-left: 60px;
+        transition : 0.2s;
+    }
+    #Donate:hover{
+	    color: #4ba146
+    }
+    #AboutUs{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 200px;
+        background: none;
+	    margin-left: 85px;
+        transition : 0.2s;
+    }
+    #AboutUs:hover{
+	    color: #4ba146
+    }
+
+    #Profile{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 200px;
+        background: none;
+	    margin-left: 25px;
+        transition : 0.2s;
+    }
+    #Profile:hover{
+	    color: #4ba146
+    }
+
+    #input {
+        padding : 10px;
+        width : 245px;    
+        box-sizing : content-box;
+        margin-left: 20px;
+        font-family: 'Montserrat';
+        font-weight: 400;
+    }
+    #submit{
+        border: none; 
+        border-radius: 4px; 
+        font-family: 'montserrat';
+        margin-left: 390px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    textarea{
+        margin-top: -38px;
+        margin-left: 78px;
+        font-family: 'Montserrat';
+        font-weight: 400;
+    }
+    #oursocials{
+	    float: right; 
+	    margin-right: 480px; 
+	    font-family: 'montserrat';
+        font-weight: 900;
+        font-size: 30px;
+	    color: white;
+	    margin-top: 193px;
+    }	
+    button:hover  {
+        opacity : 0.8;    
+    }
+    .copyright{
+        font-family: 'Times New Roman', sans-serif;
+        font-size: 15px;
+        text-align: middle;
+	    margin-left: 1100px;
+	    margin-top: -40px;
+	    color: white;
+    }
+    #ul{
+	    font-family: 'Montserrat';
+	    font-weight: 500;
+	    font-size: 25px;
+    }
+
+    .error-message{
+    padding:8px;
+    width: 440px;
+    background: #f8d7da;;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #a42834;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+
+    .success-message{
+    padding:8px;
+    width: 440px;
+    background: lightgreen;;
+    border-radius: 6px;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 200px;
+}

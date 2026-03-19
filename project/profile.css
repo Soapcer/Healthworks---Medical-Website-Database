@@ -1,0 +1,220 @@
+	body{
+	background-color:#93aaff;	
+    }
+    h1{
+       font-family: 'montserrat';
+       font-weight: 900;
+       font-size: 50px;
+    }
+        
+    p{
+       font-family: 'montserrat';
+       font-weight: 500;
+       font-size: 25px;
+    }
+        
+    .header {
+        background-color: #f7f7f7;
+        align-items: center;
+        margin-right: -8px;
+        margin-left:-10px;
+	    width: 100%;
+	    position: fixed;
+	    top: 0;
+    }
+    #Home{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        background: none;
+        color: #6f81ff;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 180px;
+	    margin-left: 20px;
+        transition : 0.2s;
+    }
+    #Home:hover{
+	    color: #4ba146
+    }	
+    #ChallengesFaced{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        background: none;
+        color: #6f81ff;
+        cursor: pointer;
+        height: 100px;
+        Width: 350px;
+	    padding-left: 0px;
+	    border: none;
+	    margin-left: 00px;
+        transition : 0.2s;
+    }
+    #ChallengesFaced:hover{
+	    color: #4ba146
+    }	
+    #Logout{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        color: #ffffff;
+        border: none;
+        background-color: #ff5757;
+        border-radius: 50px;
+        cursor: pointer;
+        height: 40px;
+        Width: 200px;
+        float: right;
+        margin-right: 30px;
+        margin-top: 30px;
+        transition : 0.2s;
+
+    }
+    #Logout:hover{
+	    color: #4ba146
+
+
+    }	
+    #Donate{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        background: none;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 100px;
+        margin-left: 60px;
+        transition : 0.2s;
+    }
+    #Donate:hover{
+	    color: #4ba146
+    }
+    #AboutUs{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 200px;
+        background: none;
+	    margin-left: 85px;
+        transition : 0.2s;
+    }
+    #AboutUs:hover{
+	    color: #4ba146
+    }
+
+    #Profile{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 200px;
+        background: none;
+	    margin-left: 25px;
+        transition : 0.2s;
+    }
+    #Profile:hover{
+	    color: #4ba146
+    }
+    #oursocials{
+	    text-align: middle; 
+	    font-family: 'montserrat';
+        font-weight: 900;
+        font-size: 30px;
+	    color: black;
+	    margin-right: 20px;
+	    margin-top: 120px;
+    }
+    #input {
+        padding : 10px;
+        width : 250px;    
+        box-sizing : content-box;
+    }
+
+    button:hover  {
+        opacity : 0.8;    
+    }
+
+    .profile-section {
+        border-radius: 50px;
+        background-color: #4ba146;
+        color: white;
+        text-align: center;
+		width: 60%;
+		height: 500px;
+		margin-left: 370px;
+    }
+        
+    .profile-section h1 {
+        font-size: 30px;
+        font-weight: 900;
+        margin-bottom: 20px;
+    }
+        
+    .profile-section p {
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+        
+    .profile-form {
+        max-width: 400px;
+        margin: 0 auto;
+        text-align: left;
+    }
+        
+    .profile-form label {
+        font-size: 14px;
+        font-weight: 700;
+        display: block;
+        margin-bottom: 5px;
+    }
+        
+    .profile-form input {
+        width: 400px;
+        height: 25px;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        margin-bottom: 15px;
+    }
+        
+    .profile-form input::placeholder {
+        color: #aaaaaa;
+    }
+        
+    .profile-form button {
+        width: 420px;
+        padding: 12px;
+        background-color: white;
+        color: #4ba146;
+        border: none;
+        border-radius: 5px;
+        font-weight: 700;
+        cursor: pointer;
+        transition: 0.2;
+    }
+        
+    .profile-form button:hover {
+        background-color: #ff5757;
+        color: white;
+    }
+    .footer a:hover {
+        color: #cccccc;
+    }
+    .copyright{
+        font-family: 'Times New Roman', sans-serif;
+        font-size: 15px;
+        text-align: center;
+		margin-top: 50px;
+    }

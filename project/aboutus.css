@@ -1,0 +1,154 @@
+    body {
+        font-family: 'Montserrat', sans-serif;
+        background-color: #ff5757;
+    }
+    p{
+        font-family: 'montserrat';
+        font-weight: 500;
+        font-size: 25px;
+    }
+        
+    .header {
+        background-color: #f7f7f7;
+        align-items: center;
+        margin-right: -8px;
+        margin-left:-10px;
+	    width: 100%;
+	    position: fixed;
+	    top: 0;
+    }
+    #Home{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        background: none;
+        color: #6f81ff;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 180px;
+	    margin-left: 20px;
+        transition : 0.2s;
+    }
+    #Home:hover{
+	    color: #4ba146
+    }	
+    #ChallengesFaced{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        background: none;
+        color: #6f81ff;
+        cursor: pointer;
+        height: 100px;
+        Width: 350px;
+	    padding-left: 0px;
+	    border: none;
+	    margin-left: 00px;
+        transition : 0.2s;
+    }
+    #ChallengesFaced:hover{
+	    color: #4ba146
+    }	
+    #Logout{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 700;
+        color: #ffffff;
+        border: none;
+        background-color: #ff5757;
+        border-radius: 50px;
+        cursor: pointer;
+        height: 40px;
+        Width: 200px;
+        float: right;
+        margin-right: 30px;
+        margin-top: 30px;
+        transition : 0.2s;
+
+    }
+    #Logout:hover{
+	    color: #4ba146
+
+
+    }	
+    #Donate{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        background: none;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 100px;
+        margin-left: 60px;
+        transition : 0.2s;
+    }
+    #Donate:hover{
+	    color: #4ba146
+    }
+    #AboutUs{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 200px;
+        background: none;
+	    margin-left: 85px;
+        transition : 0.2s;
+    }
+    #AboutUs:hover{
+	    color: #4ba146
+    }
+
+    #Profile{
+        font-size: 28px;
+        font-family: 'montserrat';
+        font-weight: 900;
+        color: #ff5757;
+        border: none;
+        cursor: pointer;
+        height: 100px;
+        Width: 200px;
+        background: none;
+	    margin-left: 25px;
+        transition : 0.2s;
+    }
+    #Profile:hover{
+	    color: #4ba146
+    }
+    footer {
+        font-family: 'Times New Roman', sans-serif;
+        font-size: 15px;
+        text-align: left;
+        padding: 20px;
+    }
+    .AboutusHead {
+        border-radius: 50px;
+        color: white;
+        text-align: center; 
+    }
+    .copyright{
+       font-family: 'Times New Roman', sans-serif;
+       font-size: 15px;
+       text-align: middle;
+	    margin-left: 850px;
+	    margin-top: 50px;
+	    color: white;
+    }
+    button:hover {
+        opacity : 0.8;   
+    }
+    #oursocials{
+	    text-align: center; 
+	    font-family: 'montserrat';
+        font-weight: 900;
+        font-size: 30px;
+	    color: white;
+	    margin-top: 10px;
+        margin-left: 10px;
+    }
