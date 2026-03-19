@@ -22,7 +22,7 @@ To run it, it requires the XAMPP control panel with MySQL and Apache running.
 <br><br>
 <b>Home Page 4</b>
 <img src="ss/Home screen 4.png">
-Inquiry box on page 4 allows user to send feed back so it can be viewed on the admin page as shown below.
+Inquiry box on the bottom of the homepage allows user to send feedback. It can then be viewed on the admin page as shown below.
 <br><br>
 <b>About Us</b>
 <img src="ss/About us.png">
